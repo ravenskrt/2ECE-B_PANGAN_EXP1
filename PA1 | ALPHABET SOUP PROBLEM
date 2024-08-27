@@ -1,5 +1,3 @@
-# 2ECE-B_PANGAN_PA1
-
 #Define a function
 def alphabet():
     #Prompt the user to enter a string and store in variable x
